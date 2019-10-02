@@ -23,7 +23,7 @@ the automatic manupulation of human languages by computers
   - retrieve and rank documents on the web that are relevant to a query
 - Question/answering
   - Provide answers to questions
-- Machine trnaslation
+- Machine translation
   - translate documents from one natural language to another
 - Text simplification
   - Simplify a document (for achild or non-native speaker) ELI5?
