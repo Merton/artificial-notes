@@ -43,3 +43,6 @@ the automatic manupulation of human languages by computers
 - **Creativity and evolution**, language changes
    - New terms, new meanings, within 6 months the language might change naturally that is hard to account for
 - **Sparsity**, so many different words, so many different combinations, so many possible contexts
+- **Grounding and world knowledge**, language does not exist in isolation
+   - Humans do not learn language by purely observing endless stream of languages, we rely on what we see, hear and experience to help process information
+   - Ultimately an AI-complete problem
