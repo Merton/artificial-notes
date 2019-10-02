@@ -1,5 +1,4 @@
 # Lecture 1
-
 ## What is natural language processing?
 
 - **Natural languages** 
@@ -46,3 +45,6 @@ the automatic manupulation of human languages by computers
 - **Grounding and world knowledge**, language does not exist in isolation
    - Humans do not learn language by purely observing endless stream of languages, we rely on what we see, hear and experience to help process information
    - Ultimately an AI-complete problem
+   
+   
+
