@@ -32,7 +32,7 @@ the automatic manupulation of human languages by computers
 - Opinion monitoring 
   - Eg, find companies with good or bad reviews
 
- ## Why NLP is difficult
+## Why NLP is difficult
  - **Variation**, many different ways of expressing the same thing
    - Different languages
    - Different styles / genres
