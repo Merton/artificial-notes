@@ -12,7 +12,7 @@ Life is often described by using a cluster of concept such as:
 
 There are two routes of artifical intelligence, theres tradititional, "Old fashioned" AI, which often involves classification, predicition and analyis. The other being Nouvelle AI, this is more interested in dynamic and interactive AI, or we could say, AI that can *survive its environment*.
 
-We are interested in intelligent behaviour *not* intelligent understanding.
+We are interested in intelligent behaviour *not* intelligent understanding!
 
 Artificial life is about:
 - Being **holistic** versus reductionist
