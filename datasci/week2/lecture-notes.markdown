@@ -65,3 +65,20 @@ n=103 | <1s | <1s | 1s | 18m | long | long | long
 n=104 | <1s | <1s | 2m | 12d | long | long | long
 n=105 | <1s | 2s | 3h | 32y | long | long | long
 n=106 | 1s | 20s | 12d | 31710y | long | long | long
+
+### Asymptotic Order of Growth
+Let’s assume we have two algorithms A1 and A2 for a given problem, and their run-time is given by f1 for A1 and f2 for A2, where:
+
+𝑓<sub>1</sub>(𝑛)=0.00001×2<sup>𝑛</sup>
+
+𝑓<sub>2</sub>(𝑛)=289346724587138654380×𝑛<sup>2</sup>
+
+For small data, A1 is faster, but eventually, for big enough data A2 is faster.  We are interested in the behaviour of algorithms as the input data grows large.
+
+## O Notation
+O notation provides an asymptotic upper bound on a function
+
+We write 𝑓(𝑛) ∈ 𝑂(g(𝑛)) if there are positive constants 𝑛<sub>0</sub> and 𝑐 such that for n>𝑛<sub>0</sub>, 𝑓(𝑛)≤𝑐(𝑔(𝑛)) 
+
+![image](https://user-images.githubusercontent.com/25505506/66656905-c6404280-ec36-11e9-8fd4-98a9168a0695.png)
+
