@@ -53,3 +53,15 @@ def myfunc2(alist):
 The length of time has a quadratic relationship with the length of the input, if the list doubles the run-time
 will quadruple. This is O(n<sup>2</sup>).
 
+
+## Do Constants matter?
+  | n | nlogn | n2 | n3 | 1.5n | 2n | n!
+-- | -- | -- | -- | -- | -- | -- | --
+n=10 | <1s | <1s | <1s | <1s | <1s | <1s | 4s
+n=30 | <1s | <1s | <1s | <1s | <1s | 18m | 1025y
+n=50 | <1s | <1 | <1s | <1s | 11m | 36y | long
+n=102 | <1s | <1s | <1s | 1s | 12892y | long | long
+n=103 | <1s | <1s | 1s | 18m | long | long | long
+n=104 | <1s | <1s | 2m | 12d | long | long | long
+n=105 | <1s | 2s | 3h | 32y | long | long | long
+n=106 | 1s | 20s | 12d | 31710y | long | long | long
